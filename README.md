@@ -4,6 +4,6 @@
 
 My diploma thesis for National Technical University of Athens
 
-Preferably download for reading - online viewing causes some page duplications.
+Preferably download for reading - online viewing causes page duplications.
 
 License is on page 4.
